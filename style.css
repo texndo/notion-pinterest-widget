@@ -1,0 +1,12 @@
+.pinterest-widget {
+  display: flex;
+  justify-content: center;
+  margin: 2rem auto;
+  padding: 1rem;
+  border-radius: 16px;
+  background-color: rgba(255, 255, 255, 0.4); /* soft glassy look */
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  width: fit-content;
+  max-width: 90%;
+}
